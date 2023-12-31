@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mishra-tushar&show_icons=true&locale=en" alt="mishra-tushar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-tushar&" alt="mishra-tushar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-tushar&" alt="mishra-tushar"  /></p>
