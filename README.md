@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tushar2004_" target="blank"><img src="https://img.shields.io/twitter/follow/tushar2004_?logo=twitter&style=for-the-badge" alt="tushar2004_" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **mishratushar8890@gmail.com**
 
