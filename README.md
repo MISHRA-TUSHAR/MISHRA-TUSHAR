@@ -38,7 +38,7 @@ experience:
 technologies:
   App Dev : Flutter , Dart
   FrontEnd : HTML , CSS , Js 
-  BackEnd : Node.js , Firebase
+  BackEnd : Golang , Node.js , Firebase
    
 ```
 
