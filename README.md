@@ -35,6 +35,10 @@ experience:
   role : Software Engineering Intern
   work: Built iVEDA mobile application
 
+  company: Goodspace.ai
+  role : Software Engineering Intern
+  work: Built Goodspace mobile application
+
 technologies:
   App Dev : Flutter , Dart
   FrontEnd : ReactJs 
