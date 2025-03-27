@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)<h1 align="center">Hi 👋, I'm TUSHAR MISHRA</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Flutter+Developer+by+Day+;Overthinker+by+Night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Software+Developer+by+Day+;Overthinker+by+Night)](https://git.io/typing-svg)
 
 <h3 align="center">Final year @MSIT</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/05/66/81/30/360_F_566813009_s79aILgAeOcKPMsAucxoAcfYD218jzeG.jpg">
@@ -45,7 +45,6 @@ technologies:
   BackEnd : Golang , Node.js , Firebase
    
 ```
-[![MISHRA-TUSHAR's GitHub | Stats](https://stats.quine.sh/MISHRA-TUSHAR/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MISHRA-TUSHAR)
 
 <p align="center">
 
@@ -56,10 +55,8 @@ technologies:
   </a>
 </p>
 
-[![MISHRA-TUSHAR's GitHub | Languages Over Time](https://stats.quine.sh/MISHRA-TUSHAR/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MISHRA-TUSHAR)
 
 <!--<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mishra-tushar&show_icons=true&locale=en&layout=compact" alt="mishra-tushar" /></p>-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mishra-tushar&show_icons=true&locale=en" alt="mishra-tushar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-tushar&" alt="mishra-tushar"  /></p>
