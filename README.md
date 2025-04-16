@@ -31,13 +31,14 @@ metadata:
   name: tushar mishra
 
 experience:
-  company: CDAC (MEITY)
-  role : Software Engineering Intern
-  work: Built iVEDA mobile application
 
   company: Goodspace.ai
   role : Software Engineering Intern
   work: Built Goodspace mobile application
+
+  company: CDAC (MEITY)
+  role : Software Engineering Intern
+  work: Built iVEDA mobile application
 
 technologies:
   App Dev : Flutter , Dart
