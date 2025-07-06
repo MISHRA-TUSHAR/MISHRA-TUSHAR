@@ -32,7 +32,7 @@ metadata:
 experience:
 
   company: Goodspace.ai
-  role : Software Engineering Intern
+  role : Software Developer Engineer
   work: Built Goodspace mobile application
 
   company: CDAC (MEITY)
