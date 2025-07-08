@@ -31,7 +31,7 @@ metadata:
 
 experience:
 
-  company: Goodspace.ai
+  company: goodspace.ai
   role : Software Developer Engineer
   work: Built Goodspace mobile application
 
