@@ -172,8 +172,6 @@ graph LR
 </div>
 
 <div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MISHRA-TUSHAR&theme=gruvbox" alt="GitHub Streak" /></a>
   
 **✨ "Code is like humor. When you have to explain it, it's bad." ✨**
 
