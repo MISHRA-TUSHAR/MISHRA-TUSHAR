@@ -61,7 +61,6 @@ tech_arsenal:
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ### 📱 Mobile Development
