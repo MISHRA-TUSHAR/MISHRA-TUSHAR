@@ -20,4 +20,7 @@
 <!-- ══════════════  STATS  ══════════════ -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MISHRA-TUSHAR&hide_border=true&background=0a0a0a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="GitHub streak" />
 
+<!-- ══════════════  CONTRIBUTION SNAKE  ══════════════ -->
+<img src="https://raw.githubusercontent.com/MISHRA-TUSHAR/MISHRA-TUSHAR/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake" />
+
 <p align="center"><sub><code>"Code is like humor. When you have to explain it, it's bad."</code></sub></p>
