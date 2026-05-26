@@ -15,39 +15,9 @@
 <img src="./assets/stack.svg" width="100%" alt="Tech stack" />
 
 <!-- ══════════════  PROJECTS  ══════════════ -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### Swadesh
-`Flutter · Node.js · MongoDB`
-
-Ecommerce app — admin/user portals, Apple Pay + Google Pay, JWT-secured backend, Provider state management.
-
-</td>
-<td width="50%" valign="top">
-
-#### GoStream
-`Golang · WebRTC · WebSocket`
-
-Video-conferencing server — real-time WebRTC streaming + WebSocket chat with customizable HTML views.
-
-</td>
-</tr>
-</table>
+<img src="./assets/projects.svg" width="100%" alt="Projects" />
 
 <!-- ══════════════  STATS  ══════════════ -->
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MISHRA-TUSHAR&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&card_width=480" />
-</td>
-<td width="38%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MISHRA-TUSHAR&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&text_color=ffffff&card_width=300" />
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MISHRA-TUSHAR&hide_border=true&background=0a0a0a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MISHRA-TUSHAR&hide_border=true&background=0a0a0a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="GitHub streak" />
 
 <p align="center"><sub><code>"Code is like humor. When you have to explain it, it's bad."</code></sub></p>
