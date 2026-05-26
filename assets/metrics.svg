@@ -1,0 +1,36 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Impact metrics">
+  <defs>
+    <style>
+      .mono { font-family:'SFMono-Regular',ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace; }
+      .sans { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+      .col { opacity:0; animation:in .7s ease forwards; }
+      .a1{animation-delay:.1s}.a2{animation-delay:.22s}.a3{animation-delay:.34s}.a4{animation-delay:.46s}
+      @keyframes in { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:none} }
+      .num { fill:#ffffff; font-weight:800; }
+      .lab { fill:#8b8b8b; letter-spacing:1px; }
+    </style>
+  </defs>
+  <rect width="1200" height="180" rx="16" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1198" height="178" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <line x1="300" y1="46" x2="300" y2="134" stroke="#ffffff" stroke-opacity="0.1"/>
+  <line x1="600" y1="46" x2="600" y2="134" stroke="#ffffff" stroke-opacity="0.1"/>
+  <line x1="900" y1="46" x2="900" y2="134" stroke="#ffffff" stroke-opacity="0.1"/>
+
+  <g class="col a1" text-anchor="middle">
+    <text x="150" y="92" class="sans num" font-size="52">600k+</text>
+    <text x="150" y="124" class="mono lab" font-size="15">USERS SERVED</text>
+  </g>
+  <g class="col a2" text-anchor="middle">
+    <text x="450" y="92" class="sans num" font-size="52">35k+</text>
+    <text x="450" y="124" class="mono lab" font-size="15">AI INTERVIEWS</text>
+  </g>
+  <g class="col a3" text-anchor="middle">
+    <text x="750" y="92" class="sans num" font-size="52">500k+</text>
+    <text x="750" y="124" class="mono lab" font-size="15">EVENTS / DAY</text>
+  </g>
+  <g class="col a4" text-anchor="middle">
+    <text x="1050" y="92" class="sans num" font-size="52">99.8%</text>
+    <text x="1050" y="124" class="mono lab" font-size="15">DELIVERY RATE</text>
+  </g>
+</svg>

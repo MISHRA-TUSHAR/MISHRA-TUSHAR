@@ -8,8 +8,14 @@
   <a href="mailto:mishratushar8890@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<!-- ══════════════  METRICS  ══════════════ -->
+<img src="./assets/metrics.svg" width="100%" alt="Impact metrics" />
+
 <!-- ══════════════  EXPERIENCE  ══════════════ -->
 <img src="./assets/experience.svg" width="100%" alt="Experience timeline" />
+
+<!-- ══════════════  EDUCATION  ══════════════ -->
+<img src="./assets/education.svg" width="100%" alt="Education and achievements" />
 
 <!-- ══════════════  STACK  ══════════════ -->
 <img src="./assets/stack.svg" width="100%" alt="Tech stack" />

@@ -1,0 +1,38 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Education and achievements">
+  <defs>
+    <style>
+      .mono { font-family:'SFMono-Regular',ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace; }
+      .sans { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; }
+      .row { opacity:0; animation:in .6s ease forwards; }
+      .r1{animation-delay:.1s}.r2{animation-delay:.28s}.r3{animation-delay:.42s}
+      @keyframes in { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:none} }
+      .chip { fill:rgba(57,211,83,.08); stroke:rgba(57,211,83,.35); }
+    </style>
+  </defs>
+  <rect width="1200" height="280" rx="16" fill="#0a0a0a"/>
+  <rect x="1" y="1" width="1198" height="278" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="48" y="62" class="mono" font-size="16" letter-spacing="4" fill="#7a7a7a">~/ EDUCATION &#38; WINS</text>
+  <line x1="48" y1="84" x2="1152" y2="84" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <!-- education -->
+  <g class="row r1">
+    <circle cx="66" cy="140" r="6" fill="#ffffff"/>
+    <text x="100" y="148" class="sans" font-size="25" font-weight="700" fill="#ffffff">Maharaja Surajmal Institute of Technology</text>
+    <text x="1152" y="148" text-anchor="end" class="mono" font-size="16" fill="#9a9a9a">2021 — 2025 · New Delhi</text>
+    <text x="100" y="178" class="sans" font-size="17" fill="#9a9a9a">B.Tech, Electronics &#38; Communication Engineering</text>
+    <text x="430" y="178" class="mono" font-size="17" fill="#39d353" font-weight="700">GPA 9.22 / 10</text>
+  </g>
+
+  <line x1="48" y1="206" x2="1152" y2="206" stroke="#ffffff" stroke-opacity="0.06"/>
+
+  <!-- achievements -->
+  <g class="row r2">
+    <text x="48" y="246" class="mono" font-size="13" letter-spacing="2" fill="#6e6e6e">ACHIEVEMENTS</text>
+    <g class="sans" font-size="16" fill="#e6e6e6">
+      <rect class="chip" x="190" y="226" width="330" height="34" rx="8"/>
+      <text x="210" y="249">🏆 Smart India Hackathon '24 — Top 5 / 500</text>
+      <rect class="chip" x="540" y="226" width="360" height="34" rx="8"/>
+      <text x="560" y="249">⚡ Tech Lead — IIC &#38; GDSC MSIT (2022–24)</text>
+    </g>
+  </g>
+</svg>
